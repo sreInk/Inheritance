@@ -13,6 +13,6 @@ class Employ(Person):
                  Person.__init__(self,name,Idnumber)
 
 a = Employ("Rahul Pailikar",124875445,-2000,"cleark")
-a.display
+a.display()
        
         
